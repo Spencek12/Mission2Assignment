@@ -1,5 +1,4 @@
-﻿//Spencer Kimball
-//Mission 2
+﻿//Mission 2
 //Dice Simulation
 using System;
 
